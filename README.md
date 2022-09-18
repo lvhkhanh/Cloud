@@ -1,4 +1,7 @@
 # Cloud
+## Providers
+### AWS Amazon Web Services
+### Google Cloud Platform
 - [ ] https://subscription.packtpub.com/book/application_development/9781787280540/1
 
 [Essential Cloud Infrastructure - Foundation](https://www.pluralsight.com/courses/essential-cloud-infrastructure-foundation)
